@@ -1,1 +1,5 @@
-["hotTickets","storeFeatured"]
+[
+  {"text": "hotTickets","tagType":"curatorTag","description":"Hot items"},
+  {"text": "storeFeatured","tagType":"curatorTag","description":"Recent choices"},
+  {"text": "29dc99d9-a6bc-4ed6-99fd-f656b12a7e1f","tagType":"artist","description":"Featured Artist"}
+]
